@@ -6,5 +6,6 @@ var $plugins =
 {"name":"CommandEquip","status":true,"description":"Equip Battle Command v1.1.1","parameters":{"Unchangeable Types":""}},
 {"name":"BattleGrow","status":true,"description":"戦闘の行動に応じた成長をするシステムを提供","parameters":{}},
 {"name":"Hit","status":true,"description":"戦闘での物理攻撃の命中演算を変更","parameters":{}},
-{"name":"MaxDamage","status":true,"description":"戦闘での物理攻撃の命中演算を変更","parameters":{}}
+{"name":"MaxDamage","status":true,"description":"戦闘での物理攻撃の命中演算を変更","parameters":{}},
+{"name":"TDDP_PreloadManager","status":true,"description":"1.1.1 Preload resources on scene/map load as well as game startup for a smoother gameplay experience.          id:TDDP_PreloadManager","parameters":{"Preload On Map Load":"true","Preload System Music":"true","Preload System SFX":"false","Print Debug to Console":"false"}}
 ];
